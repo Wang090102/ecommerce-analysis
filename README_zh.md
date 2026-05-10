@@ -28,8 +28,16 @@
 
 利用Pandas的分组聚合（groupby）、透视表（pivot_table）和滚动窗口（rolling）发现数据规律。
 
+### 1
+
 <img width="376" height="217" alt="屏幕截图 2026-05-10 214811" src="https://github.com/user-attachments/assets/9bb9b6c6-ee20-407e-bd96-3ff4bc486a28" />
+
+### 2
+
 <img width="517" height="202" alt="屏幕截图 2026-05-10 215149" src="https://github.com/user-attachments/assets/d4857d49-8ea6-4a76-91ea-066e17a18f60" />
+
+### 3
+
 <img width="386" height="202" alt="屏幕截图 2026-05-10 215202" src="https://github.com/user-attachments/assets/9df2496d-eca8-444d-95d4-bcc2f73177a5" />
 
 
